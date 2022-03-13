@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*Header*/
+
+header {
+    display: flex;
+    height: 81px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+header img {
+    height: 80px;
+    margin: 0px 20px;
+}
+
+header span {
+    color: grey;
+}
+
+header h4 {
+    margin-left: 20%;
+}
+
+/*Main*/
+main {
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+
+main h2 {
+    margin: 30px auto;
+}
